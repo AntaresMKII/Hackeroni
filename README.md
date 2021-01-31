@@ -1,4 +1,4 @@
-# codefit README
+# CodeFit
 
 The Codefit extension allows you to keep track of how long you have been coding in real time and also view the number of breaks you have taken, a way to help you not go crazy and to stay focused when you work by taking a few breaks every now and then.
 
